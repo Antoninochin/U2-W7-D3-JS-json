@@ -1,0 +1,21 @@
+[
+    {
+    "nome":"Lucky",
+    "razza":"Pastore Tedesco",
+    "anni":7
+    },
+    {
+    "nome":"Rocky",
+    "razza":"Bulldog",
+    "anni":5
+    },
+    {
+    "nome":"Spike",
+    "razza":"vopino",
+    "anni":9
+    },
+    {
+    "nome":"Teddy",
+    "razza":"Maltese",
+    "anni":4}
+]
