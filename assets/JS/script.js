@@ -19,7 +19,7 @@ let salva = window.localStorage.getItem('visualizza')
 let animali = [
     new animale("Lucky,","Pastore Tedesco,", 7),
     new animale("Rocky,","Bulldog,", 5),
-    new animale("Spike,","vopino,", 9),
+    new animale("Spike,","volpino,", 9),
     new animale("Teddy,","Maltese,", 4)
 ]
 
