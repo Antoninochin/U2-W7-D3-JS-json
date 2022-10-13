@@ -52,7 +52,7 @@ let utenti = [
     ]
 
     
-    console.log(utentiJSON)
+    
 
 function utents(){
     let utentiJSON = JSON.stringify(utenti)
